@@ -1,5 +1,5 @@
-# ECE 3400 Team 3 Website
+# ECE 3400 Team 49 Website
 
-[Click here to view website.](https://pages.github.coecis.cornell.edu/sv352/ece3400-team3/)
+[Click here to view website.](https://themandrazic.github.io/)
 
 Source for \_config.yml from [this site.](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
